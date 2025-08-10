@@ -32,5 +32,11 @@
         "password": "AXIS-1522",
         "expiry": "2025-08-12",
         "hwid": []
+    },
+    {
+        "username": "JODX",
+        "password": "1",
+        "expiry": "2025-11-17",
+        "hwid": []
     }
 ]
