@@ -45,6 +45,8 @@
         "username": "AXIS",
         "password": "1",
         "expiry": "2028-05-05",
-        "hwid": []
+        "hwid": [
+            "192512172012596"
+        ]
     }
 ]
