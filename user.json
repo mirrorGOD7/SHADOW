@@ -59,6 +59,8 @@
         "username": "JOD1",
         "password": "AX1",
         "expiry": "2025-08-21",
-        "hwid": []
+        "hwid": [
+            "211818810718318"
+        ]
     }
 ]
