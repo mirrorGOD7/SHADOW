@@ -51,9 +51,7 @@
         "username": "JOD",
         "password": "1",
         "expiry": "2025-08-23",
-        "hwid": [
-            "191632541450976"
-        ]
+        "hwid": []
     },
     {
         "username": "MOTU",
