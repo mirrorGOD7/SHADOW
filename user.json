@@ -54,12 +54,6 @@
         ]
     },
     {
-        "username": "RX",
-        "password": "12",
-        "expiry": "2025-09-12",
-        "hwid": []
-    },
-    {
         "username": "RA",
         "password": "1",
         "expiry": "2025-10-20",
