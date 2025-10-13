@@ -1,13 +1,5 @@
 [
     {
-        "username": "MOTU",
-        "password": "1",
-        "expiry": "2025-08-23",
-        "hwid": [
-            "247012653038092"
-        ]
-    },
-    {
         "username": "RA",
         "password": "1",
         "expiry": "2025-10-20",
