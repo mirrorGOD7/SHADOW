@@ -27,6 +27,8 @@
         "username": "MOTU",
         "password": "1",
         "expiry": "2025-10-27",
-        "hwid": []
+        "hwid": [
+            "151585675257449"
+        ]
     }
 ]
