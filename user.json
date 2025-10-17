@@ -28,11 +28,5 @@
         "password": "1",
         "expiry": "2025-10-27",
         "hwid": []
-    },
-    {
-        "username": "$",
-        "password": "1",
-        "expiry": "2025-10-18",
-        "hwid": []
     }
 ]
