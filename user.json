@@ -19,7 +19,9 @@
         "username": "YASH",
         "password": "1",
         "expiry": "2025-10-25",
-        "hwid": []
+        "hwid": [
+            "249005592814505"
+        ]
     },
     {
         "username": "MOTU",
