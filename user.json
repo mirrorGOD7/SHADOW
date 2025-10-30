@@ -64,5 +64,11 @@
         "password": "1",
         "expiry": "2025-11-02",
         "hwid": []
+    },
+    {
+        "username": "YSS",
+        "password": "1",
+        "expiry": "2034-01-16",
+        "hwid": []
     }
 ]
