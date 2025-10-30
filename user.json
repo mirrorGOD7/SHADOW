@@ -64,5 +64,11 @@
         "password": "1",
         "expiry": "2025-10-30",
         "hwid": []
+    },
+    {
+        "username": "PRAVEEN",
+        "password": "1",
+        "expiry": "2025-11-02",
+        "hwid": []
     }
 ]
