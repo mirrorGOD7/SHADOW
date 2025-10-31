@@ -10,17 +10,5 @@
             "3 months": 1500,
             "lifetime": 4000
         }
-    },
-    {
-        "name": "AIM KILL ",
-        "status": "in stock",
-        "pricing": {
-            "1 day": 100,
-            "3 days": 100,
-            "7 days": 100,
-            "1 month": 100,
-            "3 months": 100,
-            "lifetime": 100
-        }
     }
 ]
