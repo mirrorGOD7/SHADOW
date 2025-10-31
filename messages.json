@@ -40,5 +40,15 @@
         "timestamp": "2025-10-31T15:07:31.583060",
         "read": false,
         "client_id": "a90762fe25cc6206"
+    },
+    {
+        "id": "4ad184640a43ebee",
+        "from_role": "owner",
+        "from_user": "RV2",
+        "to": "client",
+        "to_id": "",
+        "message": "YOU WILL GET SOON",
+        "timestamp": "2025-10-31T15:08:37.148014",
+        "read": false
     }
 ]
