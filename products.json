@@ -15,12 +15,12 @@
         "name": "AIM KILL ",
         "status": "in stock",
         "pricing": {
-            "1 day": 0,
-            "3 days": 0,
-            "7 days": 0,
-            "1 month": 0,
-            "3 months": 0,
-            "lifetime": 0
+            "1 day": 100,
+            "3 days": 100,
+            "7 days": 100,
+            "1 month": 100,
+            "3 months": 100,
+            "lifetime": 100
         }
     }
 ]
