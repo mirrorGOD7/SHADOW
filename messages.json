@@ -29,5 +29,16 @@
         "message": "WAIT TILL NEW RESOUND",
         "timestamp": "2025-10-31T01:49:07.687659",
         "read": false
+    },
+    {
+        "id": "3844e0c7eecd8001",
+        "from_role": "client",
+        "from_user": "1",
+        "to": "owner",
+        "to_id": "",
+        "message": "NOT GETTED ID PASSWORD STIIL",
+        "timestamp": "2025-10-31T15:07:31.583060",
+        "read": false,
+        "client_id": "a90762fe25cc6206"
     }
 ]
