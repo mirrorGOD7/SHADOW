@@ -10,16 +10,6 @@
         "read": false
     },
     {
-        "id": "6c12b2717c5939af",
-        "from_role": "admin",
-        "from_user": "TEST",
-        "to": "client",
-        "to_id": "",
-        "message": "WAIT TILL NEW RESOUND",
-        "timestamp": "2025-10-31T01:49:07.687659",
-        "read": false
-    },
-    {
         "id": "4ad184640a43ebee",
         "from_role": "owner",
         "from_user": "RV2",
