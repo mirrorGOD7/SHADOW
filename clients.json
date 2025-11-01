@@ -18,6 +18,16 @@
         "username": "1",
         "password": "1",
         "registered_date": "2025-10-31T15:11:31.749936",
-        "panels": []
+        "panels": [
+            {
+                "panel_username": "RZ924",
+                "username": "RZ924",
+                "password": "AX5853",
+                "expiry": "2025-11-02",
+                "product_name": "Silent aim ",
+                "duration": "1 day",
+                "activated_at": "2025-11-01T02:10:19.852103"
+            }
+        ]
     }
 ]
