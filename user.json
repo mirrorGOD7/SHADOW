@@ -70,5 +70,11 @@
         "password": "AX5853",
         "expiry": "2025-11-02",
         "hwid": []
+    },
+    {
+        "username": "RZ123",
+        "password": "AX4085",
+        "expiry": "2025-11-02",
+        "hwid": []
     }
 ]
